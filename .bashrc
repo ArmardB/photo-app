@@ -1,2 +1,5 @@
+export .bash_profile
 export SENDGRID_USERNAME=armardbellamy
 export SENDGRID_PASSWORD=theWorldismin3
+export STRIPE_TEST_SECRET_KEY= sk_test_NnqWmfho0jC8JtmdfUIYPuiC
+export STRIPE_TEST_PUBLISHABLE_KEY= pk_test_PK4mBvDbIyUERMjcAWjYEPzp
