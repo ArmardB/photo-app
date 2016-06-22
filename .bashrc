@@ -1,0 +1,2 @@
+export SENDGRID_USERNAME=armardbellamy
+export SENDGRID_PASSWORD=theWorldismin3
